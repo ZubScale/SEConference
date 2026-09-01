@@ -6,7 +6,7 @@ RF-02. El sistema permitirá consultar las actividades disponibles.
 
 RF-03. El sistema permitirá registrar un asistente a una actividad.
 
-RF-04. El sistema permitirá cancelar el registro de un asistente a una actividad.
+RF-04. El sistema permitirá cancelar el registro de un asistente a una actividad
 
 RF-05 El sistema permitira registrar ponentes de congreso
 
